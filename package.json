@@ -1,0 +1,20 @@
+{
+  "name": "electricity-consumption-dashboard",
+  "version": "1.0.0",
+  "description": "Electricity Consumption Dashboard - Mini Project Using Tableau & Web Analytics",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "serve": "node server.js"
+  },
+  "keywords": [
+    "electricity-consumption",
+    "dashboard",
+    "tableau",
+    "data-analytics",
+    "mini-project"
+  ],
+  "author": "",
+  "license": "ISC"
+}
